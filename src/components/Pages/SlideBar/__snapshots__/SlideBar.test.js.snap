@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SlideBar SlideBar snapshot renders  1`] = `
+<div
+  className="sc-AykKC fBCwXg"
+  data-testid="SlideBar"
+>
+  <img
+    alt="logo"
+    className="sc-AykKE cTtjYa"
+    src="Logo-large.webp"
+  />
+  <div
+    className="sc-AykKF gZseDx"
+  >
+    WELCOME TO GIFT GIUDE
+  </div>
+  <form
+    className=""
+    noValidate={true}
+    onSubmit={[Function]}
+  >
+    <div
+      className="form-group"
+    >
+      <label
+        className="form-label"
+        htmlFor="formBasicEmail"
+      >
+        Email
+      </label>
+      <input
+        className="form-control"
+        id="formBasicEmail"
+        onClick={[Function]}
+        required={true}
+        type="email"
+      />
+    </div>
+    <div
+      className="form-group"
+    >
+      <label
+        className="form-label"
+        htmlFor="formBasicPassword"
+      >
+        Password
+      </label>
+      <input
+        className="form-control"
+        id="formBasicPassword"
+        onClick={[Function]}
+        required={true}
+        type="password"
+      />
+    </div>
+    <button
+      className="auth-button btn btn-primary"
+      disabled={false}
+      type="submit"
+    >
+      LOG IN
+    </button>
+  </form>
+  <div
+    className="sc-AykKI jNvuZI"
+  >
+    
+  </div>
+  <div
+    className="sc-AykKH cGWaIW"
+  >
+     
+    test
+  </div>
+  <div
+    className="sc-AykKH cGWaIW"
+    onClick={[Function]}
+  >
+    create an account
+  </div>
+  <div
+    className="sc-AykKH cGWaIW"
+  >
+    login with google or facebook
+  </div>
+  <div
+    className="sc-AykKJ cssEoh"
+  >
+    
+  </div>
+</div>
+`;

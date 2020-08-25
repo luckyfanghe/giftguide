@@ -1,0 +1,108 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer Footer snapshot renders  1`] = `
+<footer>
+  <div
+    className="sc-AykKC cSFNtd"
+    data-testid="Footer"
+  >
+    <div
+      className="sc-AykKD eVoXHJ"
+    >
+      <div
+        className="sc-AykKE gsEnyW"
+      >
+        CONNECT WITH GIFT GUIDE
+      </div>
+      <div
+        className="sc-AykKF iMRYRu"
+      >
+        <div
+          className="sc-AykKG gJaBCL"
+        >
+          <img
+            src="https://static.wixstatic.com/media/8f6f59264a094af0b46e9f6c77dff83e.png/v1/fill/w_35,h_35,al_c,q_85,usm_0.66_1.00_0.01/8f6f59264a094af0b46e9f6c77dff83e.webp"
+          />
+        </div>
+        <div
+          className="sc-AykKG gJaBCL"
+        >
+          <img
+            src="https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_35,h_35,al_c,q_85,usm_0.66_1.00_0.01/01c3aff52f2a4dffa526d7a9843d46ea.webp"
+          />
+        </div>
+        <div
+          className="sc-AykKG gJaBCL"
+        >
+          <img
+            src="https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_35,h_35,al_c,q_85,usm_0.66_1.00_0.01/0fdef751204647a3bbd7eaa2827ed4f9.webp"
+          />
+        </div>
+        <div
+          className="sc-AykKG gJaBCL"
+        >
+          <img
+            src="https://static.wixstatic.com/media/c7d035ba85f6486680c2facedecdcf4d.png/v1/fill/w_35,h_35,al_c,q_85,usm_0.66_1.00_0.01/c7d035ba85f6486680c2facedecdcf4d.webp"
+          />
+        </div>
+      </div>
+      <div
+        className="sc-AykKH gTJSEi"
+      >
+        <div
+          className="sc-AykKI eIxMid"
+        >
+          CONTACT US
+        </div>
+        <div
+          className="sc-AykKI eIxMid"
+        >
+          TEAMS OF USE / PRIVACY
+        </div>
+        <div
+          className="sc-AykKI eIxMid"
+        >
+          FEEDBACK
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-AykKJ hDJrHN"
+    >
+      <div
+        className="sc-AykKE gsEnyW"
+      >
+        INVITE FRIENDS TO GIFT GUIDE
+      </div>
+      <div
+        className="sc-AykKK dMeBJD"
+      >
+        enter your loved one's email to invite
+      </div>
+      <div
+        className="sc-fzXfLO bqoHDp"
+      >
+        <div
+          className="sc-fzXfLP fjiGwV"
+        >
+          <input
+            className="form-control"
+            type="text"
+          />
+        </div>
+        <button
+          className="sc-fzXfLQ eiOJjv"
+          type="button"
+        >
+          INVITE
+        </button>
+      </div>
+      <div
+        className="sc-fzXfLR jaafTt"
+      >
+        2019 TM GIFT GUIDE LLC
+      </div>
+    </div>
+  </div>
+</footer>
+`;

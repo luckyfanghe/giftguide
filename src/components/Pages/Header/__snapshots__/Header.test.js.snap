@@ -1,0 +1,157 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Header snapshot renders  1`] = `
+<div
+  className="sc-AykKC jIyKXn"
+  data-testid="Header"
+>
+  <div
+    className="sc-AykKD PnOJm"
+  >
+    <div
+      className="sc-AykKE dtIxTI"
+    >
+      <img
+        alt="logo"
+        src="Logo.webp"
+      />
+      <span
+        className="sc-AykKF eknJnN"
+      >
+        THE GIFT GUIDE
+      </span>
+    </div>
+    <div
+      className="sc-AykKG iQLzuy"
+    >
+      <div
+        className="sc-AykKH gThAOh"
+      >
+        <input
+          className="form-control"
+          onKeyDown={[Function]}
+          placeholder="Search"
+          type="text"
+        />
+      </div>
+      <img
+        alt="search"
+        onClick={[Function]}
+        src="search-icon.webp"
+      />
+      <span
+        className="sc-AykKI fiqlbo"
+      >
+        +
+      </span>
+      <img
+        alt="avatar"
+        className="sc-AykKJ eAebmr"
+        src="avatar.webp"
+      />
+    </div>
+  </div>
+  <div
+    className="nab-bar"
+  >
+    <nav
+      className="nab-bar-bar navbar navbar-expand-lg navbar-light bg-light"
+    >
+      <button
+        aria-controls="basic-navbar-nav"
+        aria-label="Toggle navigation"
+        className="navbar-toggler collapsed"
+        onClick={[Function]}
+        type="button"
+      >
+        <span
+          className="navbar-toggler-icon"
+        />
+      </button>
+      <div
+        aria-expanded={null}
+        className="nab-bar-link navbar-collapse collapse"
+        id="basic-navbar-nav"
+      >
+        <div
+          className="mr-auto navbar-nav"
+          onKeyDown={[Function]}
+        >
+          <a
+            className="nab-link nav-link"
+            data-rb-event-key={null}
+            disabled={false}
+            href="/dashboard"
+            onClick={[Function]}
+          >
+            DASHBOARD
+          </a>
+          <a
+            className="nab-link nav-link"
+            data-rb-event-key={null}
+            disabled={false}
+            href="/wish_list"
+            onClick={[Function]}
+          >
+            WISH LIST
+          </a>
+          <a
+            className="nab-link nav-link"
+            data-rb-event-key={null}
+            disabled={false}
+            href="/friends"
+            onClick={[Function]}
+          >
+            FRIENDS
+          </a>
+          <a
+            className="nab-link nav-link"
+            data-rb-event-key={null}
+            disabled={false}
+            href="/calendar"
+            onClick={[Function]}
+          >
+            CALENDAR
+          </a>
+          <a
+            className="nab-link nav-link"
+            data-rb-event-key={null}
+            disabled={false}
+            href="/gift_guides"
+            onClick={[Function]}
+          >
+            GIFT GUIDES
+          </a>
+          <a
+            className="nab-link nav-link"
+            data-rb-event-key={null}
+            disabled={false}
+            href="/blog"
+            onClick={[Function]}
+          >
+            BLOG
+          </a>
+          <a
+            className="nab-link nav-link"
+            data-rb-event-key={null}
+            disabled={false}
+            href="/contact"
+            onClick={[Function]}
+          >
+            CONTACT
+          </a>
+          <a
+            className="nab-link nav-link"
+            data-rb-event-key={null}
+            disabled={false}
+            href="/about"
+            onClick={[Function]}
+          >
+            ABOUT
+          </a>
+        </div>
+      </div>
+    </nav>
+  </div>
+</div>
+`;

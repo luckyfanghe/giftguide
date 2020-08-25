@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Banner Banner snapshot renders  1`] = `
+<div
+  className="sc-AykKC cBnjZW"
+  data-testid="Banner"
+>
+  <img
+    alt="banner"
+    className="sc-AykKD ceqHQh"
+  />
+  <button
+    className="sc-AykKE kAoYeh"
+    type="button"
+  />
+</div>
+`;

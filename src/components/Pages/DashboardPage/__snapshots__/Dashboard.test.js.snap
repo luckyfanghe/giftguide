@@ -1,0 +1,200 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dashboard Dashboard snapshot renders  1`] = `
+<div
+  className="sc-AykKK ePxKVu"
+  data-testid="Dashboard"
+>
+  <div
+    className="sc-fzXfLO bYoUJB"
+  >
+    <div>
+      SIMPLIFY GIFTING AND ENSURE DELIGHTED
+    </div>
+    <div>
+      FACES ON SPECIAL OCCASIONS
+    </div>
+  </div>
+  <div
+    className="sc-fzXfLP oogYd"
+  >
+    <div
+      className="sc-AykKC eZouOZ"
+      data-testid="Card"
+      id="card-1"
+    >
+      <div
+        className="sc-AykKD jerNDl"
+      >
+        CALENDAR
+      </div>
+      <div
+        className="sc-AykKF hnEzuj"
+      >
+        <div
+          className="sc-AykKG fVihnv"
+          id="des-1"
+        >
+          gift guide creates a customized
+        </div>
+        <div
+          className="sc-AykKG fVihnv"
+          id="des-2"
+        >
+          calendar for you with all your loved
+        </div>
+        <div
+          className="sc-AykKG fVihnv"
+          id="des-3"
+        >
+          one's most important dates, in one
+        </div>
+        <div
+          className="sc-AykKG fVihnv"
+          id="des-4"
+        >
+          easy location
+        </div>
+      </div>
+      <button
+        className="sc-AykKE dosAzx"
+        type="button"
+      >
+         
+        ADD FRIENDS
+         
+      </button>
+    </div>
+    <div
+      className="sc-AykKC eZouOZ"
+      data-testid="Card"
+      id="card-2"
+    >
+      <div
+        className="sc-AykKD jerNDl"
+      >
+        WISH LIST
+      </div>
+      <div
+        className="sc-AykKF hnEzuj"
+      >
+        <div
+          className="sc-AykKG fVihnv"
+          id="des-5"
+        >
+          gift guide users set up profiles
+        </div>
+        <div
+          className="sc-AykKG fVihnv"
+          id="des-6"
+        >
+          containing their favorite stores, wish
+        </div>
+        <div
+          className="sc-AykKG fVihnv"
+          id="des-7"
+        >
+          lists and items they love, so you no
+        </div>
+        <div
+          className="sc-AykKG fVihnv"
+          id="des-8"
+        >
+          longer have to ask for ideas or sizes
+        </div>
+      </div>
+      <button
+        className="sc-AykKE dosAzx"
+        type="button"
+      >
+         
+        ADD TO WISH LIST
+         
+      </button>
+    </div>
+    <div
+      className="sc-AykKC eZouOZ"
+      data-testid="Card"
+      id="card-3"
+    >
+      <div
+        className="sc-AykKD jerNDl"
+      >
+        REMINDERS
+      </div>
+      <div
+        className="sc-AykKF hnEzuj"
+      >
+        <div
+          className="sc-AykKG fVihnv"
+          id="des-9"
+        >
+          gift guide sends you reminders before
+        </div>
+        <div
+          className="sc-AykKG fVihnv"
+          id="des-10"
+        >
+          your loved ones' events with their
+        </div>
+        <div
+          className="sc-AykKG fVihnv"
+          id="des-11"
+        >
+          wish lists and favorite stores so you
+        </div>
+        <div
+          className="sc-AykKG fVihnv"
+          id="des-12"
+        >
+          never miss an important date again
+        </div>
+      </div>
+      <button
+        className="sc-AykKE dosAzx"
+        type="button"
+      >
+         
+        SET UP REMINDERS
+         
+      </button>
+    </div>
+  </div>
+  <div
+    className="sc-fzXfLQ dhPgs"
+  >
+    <div
+      className="sc-AykKH lrMCr"
+      data-testid="Banner"
+    >
+      <img
+        alt="banner"
+        className="sc-AykKI kzpyli"
+        src="banner2.webp"
+      />
+      <button
+        className="sc-AykKJ crLLTO"
+        type="button"
+      >
+        GET STARTED
+      </button>
+    </div>
+    <div
+      className="sc-AykKH lrMCr"
+      data-testid="Banner"
+    >
+      <img
+        alt="banner"
+        className="sc-AykKI kzpyli"
+        src="banner1.webp"
+      />
+      <button
+        className="sc-AykKJ crLLTO"
+        type="button"
+      >
+        BROWSE GIFT IDEAS
+      </button>
+    </div>
+  </div>
+</div>
+`;

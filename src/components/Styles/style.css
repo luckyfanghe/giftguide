@@ -1,0 +1,94 @@
+.nab-bar .nab-bar-bar {
+  padding: 0px;
+}
+
+.nab-bar-link .mr-auto {
+  padding: 0px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nab-bar-link .mr-auto .nab-link {
+  padding: 0px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.auth-button {
+  background-color: #555 !important;
+  width: 100% !important;
+  height: 40px !important;
+  border-color: white !important;
+  font-size: 15px !important;
+  color: white !important;
+}
+.auth-button:hover {
+  background-color: #666666 !important;
+}
+
+.add-wish-item-btn {
+  padding-top: 10px;
+  background-color: black !important;
+  width: 100% !important;
+  height: 40px !important;
+  border-color: white !important;
+  font-family: Futura Light !important;
+  font-size: 13px !important;
+  font-weight: bold;
+  letter-spacing: 0.15px !important;
+  color: white !important;
+}
+
+/* AddWishItemPage/UpdateWishItemPage Form styles */
+
+.form-label {
+  font-family: Futura Light;
+  font-size: 13px !important;
+  letter-spacing: 0.15px;
+}
+
+.form-control {
+  font-family: Futura Light;
+  font-size: 15px !important;
+  letter-spacing: 0.15px;
+  height: 35px !important;
+  background-color: white !important;
+}
+
+.dropdown-toggle.btn {
+  width: 100%;
+  height: 35px;
+  background-color: white !important;
+  border-color: #cccccc !important;
+  display: flex;
+  flex: 10;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  color: black !important;
+  text-align: center;
+}
+
+.dropdown-toggle.btn:hover {
+  color: black !important;
+}
+
+.dropdown-toggle.btn::after {
+  color: black !important;
+}
+
+.dropdown-menu.show {
+  width: 100%;
+}
+
+.dropdown-item {
+  font-family: Futura Light;
+  font-size: 15px !important;
+  letter-spacing: 0.15px;
+  height: 35px !important;
+}
+
+.form-textarea.form-control {
+  height: 80px !important;
+}

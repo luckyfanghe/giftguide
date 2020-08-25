@@ -1,0 +1,774 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App App snapshot renders  1`] = `
+<div
+  className="app"
+  data-testid="App"
+>
+  <div
+    className="body"
+    id="outer-container"
+  >
+    <div>
+      <div>
+        <div
+          className="bm-overlay"
+          onClick={[Function]}
+          style={
+            Object {
+              "MozTransform": "",
+              "MsTransform": "",
+              "OTransform": "",
+              "WebkitTransform": "",
+              "background": "rgba(0, 0, 0, 0.3)",
+              "height": "100%",
+              "opacity": 1,
+              "position": "fixed",
+              "transform": "",
+              "transition": "opacity 0.3s",
+              "width": "100%",
+              "zIndex": 1000,
+            }
+          }
+        />
+        <div
+          className="bm-menu-wrap"
+          id="slide"
+          style={
+            Object {
+              "MozTransform": "",
+              "MsTransform": "",
+              "OTransform": "",
+              "WebkitTransform": "",
+              "height": "100%",
+              "position": "fixed",
+              "right": 0,
+              "transform": "",
+              "transition": "all 0.5s",
+              "width": "30%",
+              "zIndex": 1100,
+            }
+          }
+        >
+          <div
+            className="bm-menu"
+            style={
+              Object {
+                "boxSizing": "border-box",
+                "height": "100%",
+                "overflow": "auto",
+              }
+            }
+          >
+            <nav
+              className="bm-item-list"
+              style={
+                Object {
+                  "height": "100%",
+                }
+              }
+            >
+              <div
+                className="sc-fzXfMz llUWBW"
+                data-testid="SlideBar"
+              >
+                <img
+                  alt="logo"
+                  className="sc-fzXfMB eezMiq"
+                  src="Logo-large.webp"
+                />
+                <div
+                  className="sc-fzXfMC llZPlh"
+                >
+                  WELCOME TO GIFT GIUDE
+                </div>
+                <form
+                  className=""
+                  noValidate={true}
+                  onSubmit={[Function]}
+                >
+                  <div
+                    className="form-group"
+                  >
+                    <label
+                      className="form-label"
+                      htmlFor="formBasicEmail"
+                    >
+                      Email
+                    </label>
+                    <input
+                      className="form-control"
+                      id="formBasicEmail"
+                      onClick={[Function]}
+                      required={true}
+                      type="email"
+                    />
+                  </div>
+                  <div
+                    className="form-group"
+                  >
+                    <label
+                      className="form-label"
+                      htmlFor="formBasicPassword"
+                    >
+                      Password
+                    </label>
+                    <input
+                      className="form-control"
+                      id="formBasicPassword"
+                      onClick={[Function]}
+                      required={true}
+                      type="password"
+                    />
+                  </div>
+                  <button
+                    className="auth-button btn btn-primary"
+                    disabled={false}
+                    type="submit"
+                  >
+                    LOG IN
+                  </button>
+                </form>
+                <div
+                  className="sc-fzXfNc iUzckS"
+                >
+                  
+                </div>
+                <div
+                  className="sc-fzXfME gzQAqq"
+                >
+                   
+                  test
+                </div>
+                <div
+                  className="sc-fzXfME gzQAqq"
+                  onClick={[Function]}
+                >
+                  create an account
+                </div>
+                <div
+                  className="sc-fzXfME gzQAqq"
+                >
+                  login with google or facebook
+                </div>
+                <div
+                  className="sc-fzXfNd igeocn"
+                >
+                  
+                </div>
+              </div>
+            </nav>
+          </div>
+          <div
+            style={Object {}}
+          >
+            <div
+              className="bm-cross-button"
+              style={
+                Object {
+                  "height": 24,
+                  "position": "absolute",
+                  "right": 8,
+                  "top": 8,
+                  "width": 24,
+                }
+              }
+            >
+              <span
+                style={
+                  Object {
+                    "position": "absolute",
+                    "right": "14px",
+                    "top": "6px",
+                  }
+                }
+              >
+                <span
+                  className="bm-cross"
+                  style={
+                    Object {
+                      "height": 14,
+                      "position": "absolute",
+                      "transform": "rotate(45deg)",
+                      "width": 3,
+                    }
+                  }
+                />
+                <span
+                  className="bm-cross"
+                  style={
+                    Object {
+                      "height": 14,
+                      "position": "absolute",
+                      "transform": "rotate(-45deg)",
+                      "width": 3,
+                    }
+                  }
+                />
+              </span>
+              <button
+                onClick={[Function]}
+                style={
+                  Object {
+                    "background": "transparent",
+                    "border": "none",
+                    "cursor": "pointer",
+                    "fontSize": 0,
+                    "height": "100%",
+                    "left": 0,
+                    "margin": 0,
+                    "padding": 0,
+                    "position": "absolute",
+                    "top": 0,
+                    "width": "100%",
+                  }
+                }
+                tabIndex={0}
+              >
+                Close Menu
+              </button>
+            </div>
+          </div>
+        </div>
+        <div
+          style={Object {}}
+        >
+          <div
+            className="bm-burger-button"
+            style={
+              Object {
+                "zIndex": 1000,
+              }
+            }
+          >
+            <span>
+              <span
+                className="bm-burger-bars"
+                style={
+                  Object {
+                    "height": "20%",
+                    "left": 0,
+                    "opacity": 1,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": "0%",
+                  }
+                }
+              />
+              <span
+                className="bm-burger-bars"
+                style={
+                  Object {
+                    "height": "20%",
+                    "left": 0,
+                    "opacity": 1,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": "40%",
+                  }
+                }
+              />
+              <span
+                className="bm-burger-bars"
+                style={
+                  Object {
+                    "height": "20%",
+                    "left": 0,
+                    "opacity": 1,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": "80%",
+                  }
+                }
+              />
+            </span>
+            <button
+              onClick={[Function]}
+              onMouseOut={[Function]}
+              onMouseOver={[Function]}
+              style={
+                Object {
+                  "background": "transparent",
+                  "border": "none",
+                  "cursor": "pointer",
+                  "fontSize": 0,
+                  "height": "100%",
+                  "left": 0,
+                  "margin": 0,
+                  "padding": 0,
+                  "position": "absolute",
+                  "top": 0,
+                  "width": "100%",
+                }
+              }
+            >
+              Open Menu
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <main
+      id="page-wrap"
+    >
+      <div
+        className="sc-AykKE XlglN"
+        data-testid="Header"
+      >
+        <div
+          className="sc-AykKF jSinek"
+        >
+          <div
+            className="sc-AykKG iQLzuy"
+          >
+            <img
+              alt="logo"
+              src="Logo.webp"
+            />
+            <span
+              className="sc-AykKH kvjmHj"
+            >
+              THE GIFT GUIDE
+            </span>
+          </div>
+          <div
+            className="sc-AykKI cYsRws"
+          >
+            <div
+              className="sc-AykKJ bvGAFD"
+            >
+              <input
+                className="form-control"
+                onKeyDown={[Function]}
+                placeholder="Search"
+                type="text"
+              />
+            </div>
+            <img
+              alt="search"
+              onClick={[Function]}
+              src="search-icon.webp"
+            />
+            <span
+              className="sc-AykKK evIedy"
+            >
+              +
+            </span>
+            <img
+              alt="avatar"
+              className="sc-fzXfLO gnWvlK"
+              src="avatar.webp"
+            />
+          </div>
+        </div>
+        <div
+          className="nab-bar"
+        >
+          <nav
+            className="nab-bar-bar navbar navbar-expand-lg navbar-light bg-light"
+          >
+            <button
+              aria-controls="basic-navbar-nav"
+              aria-label="Toggle navigation"
+              className="navbar-toggler collapsed"
+              onClick={[Function]}
+              type="button"
+            >
+              <span
+                className="navbar-toggler-icon"
+              />
+            </button>
+            <div
+              aria-expanded={null}
+              className="nab-bar-link navbar-collapse collapse"
+              id="basic-navbar-nav"
+            >
+              <div
+                className="mr-auto navbar-nav"
+                onKeyDown={[Function]}
+              >
+                <a
+                  className="nab-link nav-link"
+                  data-rb-event-key={null}
+                  disabled={false}
+                  href="/dashboard"
+                  onClick={[Function]}
+                >
+                  DASHBOARD
+                </a>
+                <a
+                  className="nab-link nav-link"
+                  data-rb-event-key={null}
+                  disabled={false}
+                  href="/wish_list"
+                  onClick={[Function]}
+                >
+                  WISH LIST
+                </a>
+                <a
+                  className="nab-link nav-link"
+                  data-rb-event-key={null}
+                  disabled={false}
+                  href="/friends"
+                  onClick={[Function]}
+                >
+                  FRIENDS
+                </a>
+                <a
+                  className="nab-link nav-link"
+                  data-rb-event-key={null}
+                  disabled={false}
+                  href="/calendar"
+                  onClick={[Function]}
+                >
+                  CALENDAR
+                </a>
+                <a
+                  className="nab-link nav-link"
+                  data-rb-event-key={null}
+                  disabled={false}
+                  href="/gift_guides"
+                  onClick={[Function]}
+                >
+                  GIFT GUIDES
+                </a>
+                <a
+                  className="nab-link nav-link"
+                  data-rb-event-key={null}
+                  disabled={false}
+                  href="/blog"
+                  onClick={[Function]}
+                >
+                  BLOG
+                </a>
+                <a
+                  className="nab-link nav-link"
+                  data-rb-event-key={null}
+                  disabled={false}
+                  href="/contact"
+                  onClick={[Function]}
+                >
+                  CONTACT
+                </a>
+                <a
+                  className="nab-link nav-link"
+                  data-rb-event-key={null}
+                  disabled={false}
+                  href="/about"
+                  onClick={[Function]}
+                >
+                  ABOUT
+                </a>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </div>
+      <div
+        className="sc-fzXfNe bRYtIL"
+      >
+        <div
+          className="sc-fzXfNK gQxaxW"
+          data-testid="Dashboard"
+        >
+          <div
+            className="sc-fzXfNL gxhxA"
+          >
+            <div>
+              SIMPLIFY GIFTING AND ENSURE DELIGHTED
+            </div>
+            <div>
+              FACES ON SPECIAL OCCASIONS
+            </div>
+          </div>
+          <div
+            className="sc-fzXfNM cSeHjg"
+          >
+            <div
+              className="sc-fzXfNf ftMzrU"
+              data-testid="Card"
+              id="card-1"
+            >
+              <div
+                className="sc-fzXfNg enCQAw"
+              >
+                CALENDAR
+              </div>
+              <div
+                className="sc-fzXfNi ihsoGO"
+              >
+                <div
+                  className="sc-fzXfNj hRCHJC"
+                  id="des-1"
+                >
+                  gift guide creates a customized
+                </div>
+                <div
+                  className="sc-fzXfNj hRCHJC"
+                  id="des-2"
+                >
+                  calendar for you with all your loved
+                </div>
+                <div
+                  className="sc-fzXfNj hRCHJC"
+                  id="des-3"
+                >
+                  one's most important dates, in one
+                </div>
+                <div
+                  className="sc-fzXfNj hRCHJC"
+                  id="des-4"
+                >
+                  easy location
+                </div>
+              </div>
+              <button
+                className="sc-fzXfNh iBOVKk"
+                type="button"
+              >
+                 
+                ADD FRIENDS
+                 
+              </button>
+            </div>
+            <div
+              className="sc-fzXfNf ftMzrU"
+              data-testid="Card"
+              id="card-2"
+            >
+              <div
+                className="sc-fzXfNg enCQAw"
+              >
+                WISH LIST
+              </div>
+              <div
+                className="sc-fzXfNi ihsoGO"
+              >
+                <div
+                  className="sc-fzXfNj hRCHJC"
+                  id="des-5"
+                >
+                  gift guide users set up profiles
+                </div>
+                <div
+                  className="sc-fzXfNj hRCHJC"
+                  id="des-6"
+                >
+                  containing their favorite stores, wish
+                </div>
+                <div
+                  className="sc-fzXfNj hRCHJC"
+                  id="des-7"
+                >
+                  lists and items they love, so you no
+                </div>
+                <div
+                  className="sc-fzXfNj hRCHJC"
+                  id="des-8"
+                >
+                  longer have to ask for ideas or sizes
+                </div>
+              </div>
+              <button
+                className="sc-fzXfNh iBOVKk"
+                type="button"
+              >
+                 
+                ADD TO WISH LIST
+                 
+              </button>
+            </div>
+            <div
+              className="sc-fzXfNf ftMzrU"
+              data-testid="Card"
+              id="card-3"
+            >
+              <div
+                className="sc-fzXfNg enCQAw"
+              >
+                REMINDERS
+              </div>
+              <div
+                className="sc-fzXfNi ihsoGO"
+              >
+                <div
+                  className="sc-fzXfNj hRCHJC"
+                  id="des-9"
+                >
+                  gift guide sends you reminders before
+                </div>
+                <div
+                  className="sc-fzXfNj hRCHJC"
+                  id="des-10"
+                >
+                  your loved ones' events with their
+                </div>
+                <div
+                  className="sc-fzXfNj hRCHJC"
+                  id="des-11"
+                >
+                  wish lists and favorite stores so you
+                </div>
+                <div
+                  className="sc-fzXfNj hRCHJC"
+                  id="des-12"
+                >
+                  never miss an important date again
+                </div>
+              </div>
+              <button
+                className="sc-fzXfNh iBOVKk"
+                type="button"
+              >
+                 
+                SET UP REMINDERS
+                 
+              </button>
+            </div>
+          </div>
+          <div
+            className="sc-fzXfNN dlhDcb"
+          >
+            <div
+              className="sc-fzXfNk bmKW"
+              data-testid="Banner"
+            >
+              <img
+                alt="banner"
+                className="sc-fzXfNl ccAnUB"
+                src="banner2.webp"
+              />
+              <button
+                className="sc-fzXfNJ biUSay"
+                type="button"
+              >
+                GET STARTED
+              </button>
+            </div>
+            <div
+              className="sc-fzXfNk bmKW"
+              data-testid="Banner"
+            >
+              <img
+                alt="banner"
+                className="sc-fzXfNl ccAnUB"
+                src="banner1.webp"
+              />
+              <button
+                className="sc-fzXfNJ biUSay"
+                type="button"
+              >
+                BROWSE GIFT IDEAS
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <footer>
+        <div
+          className="sc-fzXfLP bIeXHY"
+          data-testid="Footer"
+        >
+          <div
+            className="sc-fzXfLQ dKSwrA"
+          >
+            <div
+              className="sc-fzXfLR ekUgGh"
+            >
+              CONNECT WITH GIFT GUIDE
+            </div>
+            <div
+              className="sc-fzXfLS kNHjih"
+            >
+              <div
+                className="sc-fzXfLT cdQoeC"
+              >
+                <img
+                  src="https://static.wixstatic.com/media/8f6f59264a094af0b46e9f6c77dff83e.png/v1/fill/w_35,h_35,al_c,q_85,usm_0.66_1.00_0.01/8f6f59264a094af0b46e9f6c77dff83e.webp"
+                />
+              </div>
+              <div
+                className="sc-fzXfLT cdQoeC"
+              >
+                <img
+                  src="https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_35,h_35,al_c,q_85,usm_0.66_1.00_0.01/01c3aff52f2a4dffa526d7a9843d46ea.webp"
+                />
+              </div>
+              <div
+                className="sc-fzXfLT cdQoeC"
+              >
+                <img
+                  src="https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_35,h_35,al_c,q_85,usm_0.66_1.00_0.01/0fdef751204647a3bbd7eaa2827ed4f9.webp"
+                />
+              </div>
+              <div
+                className="sc-fzXfLT cdQoeC"
+              >
+                <img
+                  src="https://static.wixstatic.com/media/c7d035ba85f6486680c2facedecdcf4d.png/v1/fill/w_35,h_35,al_c,q_85,usm_0.66_1.00_0.01/c7d035ba85f6486680c2facedecdcf4d.webp"
+                />
+              </div>
+            </div>
+            <div
+              className="sc-fzXfLU bcnaoV"
+            >
+              <div
+                className="sc-fzXfLV lba-DNo"
+              >
+                CONTACT US
+              </div>
+              <div
+                className="sc-fzXfLV lba-DNo"
+              >
+                TEAMS OF USE / PRIVACY
+              </div>
+              <div
+                className="sc-fzXfLV lba-DNo"
+              >
+                FEEDBACK
+              </div>
+            </div>
+          </div>
+          <div
+            className="sc-fzXfLW fXVMqY"
+          >
+            <div
+              className="sc-fzXfLR ekUgGh"
+            >
+              INVITE FRIENDS TO GIFT GUIDE
+            </div>
+            <div
+              className="sc-fzXfLX csdvWa"
+            >
+              enter your loved one's email to invite
+            </div>
+            <div
+              className="sc-fzXfMv MVnpV"
+            >
+              <div
+                className="sc-fzXfMw kQchwh"
+              >
+                <input
+                  className="form-control"
+                  type="text"
+                />
+              </div>
+              <button
+                className="sc-fzXfMx bQMxPD"
+                type="button"
+              >
+                INVITE
+              </button>
+            </div>
+            <div
+              className="sc-fzXfMy bGETPR"
+            >
+              2019 TM GIFT GUIDE LLC
+            </div>
+          </div>
+        </div>
+      </footer>
+    </main>
+  </div>
+</div>
+`;

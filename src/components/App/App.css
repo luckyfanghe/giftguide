@@ -1,0 +1,42 @@
+@font-face {
+  font-family: GothamRndSSm-Bold;
+  src: url("../../assets/fonts/gotham-cufonfonts/GothamRndSSm-Bold.otf");
+}
+@font-face {
+  font-family: GothamRndSSm-BoldItalic;
+  src: url("../../assets/fonts/gotham-cufonfonts/GothamRndSSm-BoldItalic.otf");
+}
+@font-face {
+  font-family: GothamRndSSm-Book;
+  src: url("../../assets/fonts/gotham-cufonfonts/GothamRndSSm-Book.otf");
+}
+@font-face {
+  font-family: GothamRndSSm-BookItalic;
+  src: url("../../assets/fonts/gotham-cufonfonts/GothamRndSSm-BookItalic.otf");
+}
+@font-face {
+  font-family: GothamRndSSm-Light;
+  src: url("../../assets/fonts/gotham-cufonfonts/GothamRndSSm-Light.otf");
+}
+@font-face {
+  font-family: GothamRndSSm-LightItalic;
+  src: url("../../assets/fonts/gotham-cufonfonts/GothamRndSSm-LightItalic.otf");
+}
+@font-face {
+  font-family: GothamRndSSm-Medium;
+  src: url("../../assets/fonts/gotham-cufonfonts/GothamRndSSm-Medium.otf");
+}
+@font-face {
+  font-family: GothamRndSSm-MediumItalic;
+  src: url("../../assets/fonts/gotham-cufonfonts/GothamRndSSm-MediumItalic.otf");
+}
+
+body {
+  background-color: rgba(25, 34, 48, 0.05);
+  min-height: 1100px;
+  margin: 0;
+  padding: 0;
+  font-family: "GothamRndSSm-Medium";
+  font-style: normal;
+  font-weight: 400;
+}

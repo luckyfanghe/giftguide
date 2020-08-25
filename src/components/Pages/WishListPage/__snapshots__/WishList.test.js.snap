@@ -1,0 +1,337 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WishList WishList snapshot renders  1`] = `
+<div
+  className="sc-AykKC hdBJOi"
+  data-testid="WishList"
+>
+  <div
+    className="sc-AykKD dkLhfl"
+  >
+    WishList
+  </div>
+  <button
+    className="sc-AykKE gYQywC"
+    type="button"
+  >
+    Share Items
+  </button>
+  <div
+    className="sc-AykKF gvLVwl"
+  >
+    <div
+      className="sc-AykKG jyvbok"
+    >
+      <div
+        className="sc-AykKH uhKLd"
+        onClick={[Function]}
+      >
+        <div
+          className="sc-AykKK kobeoF"
+        >
+          +
+        </div>
+      </div>
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        add to wish list
+      </div>
+    </div>
+    <div
+      className="sc-AykKG jyvbok"
+    >
+      <img
+        alt="banner"
+        className="sc-AykKI cYiOOi"
+        src="banner1.webp"
+      />
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        Wish Item Name
+      </div>
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        $ 67
+      </div>
+    </div>
+    <div
+      className="sc-AykKG jyvbok"
+    >
+      <img
+        alt="banner"
+        className="sc-AykKI cYiOOi"
+        src="banner1.webp"
+      />
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        Wish Item Name
+      </div>
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        $ 67
+      </div>
+    </div>
+    <div
+      className="sc-AykKG jyvbok"
+    >
+      <img
+        alt="banner"
+        className="sc-AykKI cYiOOi"
+        src="banner1.webp"
+      />
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        Wish Item Name
+      </div>
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        $ 67
+      </div>
+    </div>
+    <div
+      className="sc-AykKG jyvbok"
+    >
+      <img
+        alt="banner"
+        className="sc-AykKI cYiOOi"
+        src="banner1.webp"
+      />
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        Wish Item Name
+      </div>
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        $ 67
+      </div>
+    </div>
+    <div
+      className="sc-AykKG jyvbok"
+    >
+      <img
+        alt="banner"
+        className="sc-AykKI cYiOOi"
+        src="banner1.webp"
+      />
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        Wish Item Name
+      </div>
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        $ 67
+      </div>
+    </div>
+    <div
+      className="sc-AykKG jyvbok"
+    >
+      <img
+        alt="banner"
+        className="sc-AykKI cYiOOi"
+        src="banner1.webp"
+      />
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        Wish Item Name
+      </div>
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        $ 67
+      </div>
+    </div>
+    <div
+      className="sc-AykKG jyvbok"
+    >
+      <img
+        alt="banner"
+        className="sc-AykKI cYiOOi"
+        src="banner1.webp"
+      />
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        Wish Item Name
+      </div>
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        $ 67
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-fzXfLP gnDrIA"
+  >
+    RECEIVED ITEMS
+  </div>
+  <div
+    className="sc-AykKF gvLVwl"
+  >
+    <div
+      className="sc-AykKG jyvbok"
+    >
+      <img
+        alt="banner"
+        className="sc-AykKJ hSxWEz"
+        src="banner1.webp"
+      />
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        Received Item Name Received 
+      </div>
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        $ 67
+      </div>
+    </div>
+    <div
+      className="sc-AykKG jyvbok"
+    >
+      <img
+        alt="banner"
+        className="sc-AykKJ hSxWEz"
+        src="banner1.webp"
+      />
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        Received Item Name Received 
+      </div>
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        $ 67
+      </div>
+    </div>
+    <div
+      className="sc-AykKG jyvbok"
+    >
+      <img
+        alt="banner"
+        className="sc-AykKJ hSxWEz"
+        src="banner1.webp"
+      />
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        Received Item Name Item Name
+      </div>
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        $ 67
+      </div>
+    </div>
+    <div
+      className="sc-AykKG jyvbok"
+    >
+      <img
+        alt="banner"
+        className="sc-AykKJ hSxWEz"
+        src="banner1.webp"
+      />
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        Received Item Name Item Name
+      </div>
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        $ 67
+      </div>
+    </div>
+    <div
+      className="sc-AykKG jyvbok"
+    >
+      <img
+        alt="banner"
+        className="sc-AykKJ hSxWEz"
+        src="banner1.webp"
+      />
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        Received Item Name Item Name
+      </div>
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        $ 67
+      </div>
+    </div>
+    <div
+      className="sc-AykKG jyvbok"
+    >
+      <img
+        alt="banner"
+        className="sc-AykKJ hSxWEz"
+        src="banner1.webp"
+      />
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        Received Item Name
+      </div>
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        $ 67
+      </div>
+    </div>
+    <div
+      className="sc-AykKG jyvbok"
+    >
+      <img
+        alt="banner"
+        className="sc-AykKJ hSxWEz"
+        src="banner1.webp"
+      />
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        Received Item Name Item Name
+      </div>
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        $ 67
+      </div>
+    </div>
+    <div
+      className="sc-AykKG jyvbok"
+    >
+      <img
+        alt="banner"
+        className="sc-AykKJ hSxWEz"
+        src="banner1.webp"
+      />
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        Received Item Name Item Name
+      </div>
+      <div
+        className="sc-fzXfLO lgtSrV"
+      >
+        $ 67
+      </div>
+    </div>
+  </div>
+</div>
+`;
